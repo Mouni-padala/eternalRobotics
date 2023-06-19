@@ -1,0 +1,38 @@
+{
+    "supportTickets": [
+      {
+        "title": "Cannot access the system",
+        "teamMembers": [
+          {
+            "name": "Mounika",
+            "icon": "Person2Icon",
+            "actionIcon": "WhatsAppIcon"
+          }
+        ],
+        "date": "2022/01/22"
+      },
+      {
+        "title": "Cannot access the system",
+        "teamMembers": [
+          {
+            "name": "Renu",
+            "icon": "Person2Icon",
+            "actionIcon": "WhatsAppIcon"
+          }
+        ],
+        "date": "2022/01/19"
+      },
+      {
+        "title": "Cannot access the system",
+        "teamMembers": [
+          {
+            "name": "Tom ",
+            "icon": "Person2Icon",
+            "actionIcon": "WhatsAppIcon"
+          }
+        ],
+        "date": "2022/01/15"
+      }
+    ]
+  }
+  

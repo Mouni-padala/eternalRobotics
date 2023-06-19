@@ -1,0 +1,125 @@
+.Sidebar{
+    width: 15%;
+    height: 100vh;
+    background-color: lightgray;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+.Eternal-header{
+    display: flex;
+    gap: 10px;
+}
+.icons{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.images-profile img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+    margin-left: 50px;
+}
+.images-profile h5{
+    text-align: center;
+    margin: 0px 40px 0px 0px !important;
+}
+.images-profile span{
+    margin-left: 50px;
+    color: gray;
+    font-size: 12px;
+}
+.home-bar{
+    display: flex;
+    margin-top: 40px;
+    gap: 10px;
+}
+.home-icon{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.admin-bar{
+    display: flex;
+    margin-top: 0;
+    gap:10px
+}
+.admin-icon{
+    margin-left: 20px;
+}
+.admin-bar h6{
+    margin-top: 5px;
+}
+.features-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.features-icon {
+    margin-left: 20px;
+}
+.features-bar h6{
+    margin-top:5px;
+}
+.projects-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.projects-icon {
+    margin-left: 20px;
+}
+.projects-bar h6{
+    margin-top: 5px;
+}
+.companies-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.companies-icon {
+    margin-left: 20px;
+}
+.companies-bar h6{
+    margin-top: 5px;
+}
+.finances-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.finances-icon {
+    margin-left: 20px;
+}
+.finances-bar h6{
+    margin-top: 5px;
+}.companies-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.companies-icon {
+    margin-left: 20px;
+}
+.companies-bar h6{
+    margin-top: 5px;
+}
+.support-bar{
+    display: flex;
+    margin-top: 0%;
+    gap: 10px;
+}
+.support-icon {
+    margin-left: 20px;
+}
+.support-bar h6{
+    margin-top: 5px;
+}
+.sign-out{
+    margin-top: 60px;
+    margin-left:80px ;
+}
+.sign-icon{
+    margin-top: -44px;
+    margin-left: 50px;
+    gap: 10px;
+}

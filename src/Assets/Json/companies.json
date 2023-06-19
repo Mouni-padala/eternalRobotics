@@ -1,0 +1,30 @@
+{
+    "companies": [
+      {
+        "id": 1,
+        "name": "Client 1",
+        "industry": "carwash",
+        "country": "france"
+      },
+      {
+        "id": 2,
+        "name": "Client 2",
+        "industry": "carwash",
+        "country": "france"
+      },
+      {
+        "id": 3,
+        "name": "Client 3",
+        "industry": "carwash",
+        "country": "france"
+      },
+      {
+        "id": 4,
+        "name": "Client 4",
+        "industry": "carwash",
+        "country": "france"
+      }
+    ],
+    "totalCompanies": 10
+  }
+  

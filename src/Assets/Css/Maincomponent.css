@@ -1,0 +1,251 @@
+.maincomponent {
+  position: relative;
+  left: 15%;
+  width: 75%;
+  margin-left: 120px;
+
+}
+.Support-block{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+/* .team-member-content {
+  margin-left: 10px;
+} */
+/* .support{
+    border-radius: 1px solid gray;
+    
+} */
+
+.High-priority-tickets-block {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 20px;
+  /* max-width: 350px; */
+  height: 318px;
+  width: 48%;
+}
+
+/* .team-member-block h6 {
+  margin: 0px;
+} */
+.team-member {
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+.team-member-block h6 {
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.team-member-content {
+  display: flex;
+  flex-direction: column;
+}
+.team-member-content button {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(198, 222, 230);
+  border: none;
+  padding: 10px 5px;
+}
+/* .team-member-block h6 {
+    margin: 0px;
+    margin-bottom: 20px;
+} */
+.High-priority-tickets-block {
+  width: 47%;
+}
+.High-priority-tickets-block h5 {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #bbb9b9;
+}
+.High-priority-tickets-block p {
+  text-align: center;
+  margin: 0px;
+  padding: 10px 30px;
+}
+/* .maincomponent-first {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+} */
+.task-block {
+  width: 47%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 20px;
+  /* max-width: 250px; */
+  height: 300px;
+  padding: 10px;
+}
+.task-block p {
+  text-align: center;
+}
+.High-priority-tickets-block h5 {
+  margin: 0px;
+}
+.task-block ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.john-name {
+  padding: 10px 30px 10px 15px;
+}
+.task-block li {
+  padding: 7px 0px;
+}
+
+.compaines {
+  /* background-color: aqua; */
+  border-radius: 50px;
+}
+.client-block {
+  display: flex;
+}
+
+.compaines h5 {
+  padding: 10px;
+}
+.compaines p {
+  width: 2%;
+  background-color: rgb(196, 228, 238);
+  border-radius: 50px;
+  color: rgb(17, 17, 17) black;
+  align-items: center;
+}
+.client {
+  border-bottom: 2px solid black;
+  width: 40px;
+}
+.clients {
+  background-color: white;
+  padding: 10px;
+  width: 20%;
+  border-radius: 50px;
+  margin-top: 0px;
+}
+
+.task-block .MuiSvgIcon-root {
+  position: absolute;
+}
+.image-content {
+  /* width: 20px;
+  height: 20px; */
+  width: 89px;
+  height: 23px;
+  display: flex;
+  gap: 10px;
+}
+.image-content img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.task-block li {
+  display: flex;
+  align-items: center;
+}
+.task-block .image-content {
+  padding-left: 60px;
+}
+.task-block ul {
+  margin: 0px;
+}
+
+.task-block p {
+  margin: 0px;
+}
+.task-block ul li {
+  padding: 0px;
+}
+.companies-content {
+  display: flex;
+  line-height: 0px;
+}
+.companies-content span{
+    margin-top: 15px;
+    padding-left: 10px;
+}
+.client-block{
+    display: flex;
+    align-items: center;
+ 
+  height: 120px;
+}
+.companies-content h6{
+    margin: 15px 0px 5px 0px;
+
+}
+.clients{
+    height: 80px; 
+    border: 1px solid black;
+  border-radius: 35%;
+  /* margin-top: 35px; */
+  margin-left: 20px;
+  display: flex;
+  width: 19%;
+
+}
+.client{
+    margin: 0px;
+}
+.square-block{
+    width: 70px;
+    height: 70px;
+    padding-right:10px ;
+}
+.square-block img{
+    width: 100%;
+    height: 100%;
+}
+.clients span{
+    font-family: emoji;
+}
+.viewlink{
+    position: relative;
+    bottom: -31px;
+    right: -15px;
+    color: blue;
+    font-size: 12px;
+}
+.compaines{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.companies-heading{
+display: flex;
+align-items: center;
+}
+.companies-heading h5{
+    margin: 0px;
+    color: #bbb9b9;
+}
+.companies-heading p{
+    margin: 0px;
+    padding: 5px;
+    
+}
+.inner-support{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.team-member{
+    background-color: #e6e5e5;
+
+}
+.title-span{
+    color: #8a8787;
+}
+.home-title{
+    margin: 20px 0px 3px 0px;
+}
